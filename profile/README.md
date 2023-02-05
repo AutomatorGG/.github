@@ -2,8 +2,7 @@
   <a href="https://automator.gg">
     <img src="https://automator.gg/images/logo.png" alt="logo" width="50%">
   </a>
-  <p>
-  <br>Automator is a service that helps agencies expand their reach and online visibility on social media platforms like Tinder, TikTok, and Reddit. <br>
+  <p>Automator is a service that helps agencies expand their reach and online visibility on social media platforms like Tinder, TikTok, and Reddit. <br>
   </p>
 </div>
 
